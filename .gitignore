@@ -1,0 +1,2 @@
+# Hybrid ISOs exceed GitHub's 2 GiB limit — host on a mirror; keep checksums in-repo.
+*.iso
