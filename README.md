@@ -8,15 +8,9 @@ This repository is for **end users** who want a ready-made image. To build from 
 
 | File | Size (approx.) | Base |
 |------|----------------|------|
-| **gamebian-1.0.0-amd64.iso** | ~2.3 GiB | Debian 13 (**trixie**), **amd64** |
+| [**gamebian-1.0.0-amd64.iso**](https://archive.org/download/gamebian-1.0.0-amd64/gamebian-1.0.0-amd64.iso) | ~2.3 GiB | Debian 13 (**trixie**), **amd64** |
 
-> **Download:** This image is **too large for GitHub** (over the 2 GiB limit for git, LFS, and Releases). Download from the mirror link below (or torrent when available). This repo holds the README and checksums only.
-
-| Mirror | Link |
-|--------|------|
-| *(add your host)* | `https://…/gamebian-1.0.0-amd64.iso` |
-
-Release filenames use lowercase product name, [semantic version](https://semver.org/), and architecture. Add the Debian suite when it helps users tell releases apart, e.g. `gamebian-1.1.0-trixie-amd64.iso`. The live-build default artifact is `live-image-amd64.hybrid.iso`; rename when you publish to a mirror.
+Release filenames use lowercase product name, [semantic version](https://semver.org/), and architecture. Add the Debian suite when it helps users tell releases apart, e.g. `gamebian-1.1.0-trixie-amd64.iso`. The live-build default artifact is `live-image-amd64.hybrid.iso`; rename when you publish a release.
 
 ## System requirements
 
